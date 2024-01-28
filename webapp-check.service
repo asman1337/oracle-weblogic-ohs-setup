@@ -1,0 +1,9 @@
+[Unit]
+Description=Web App Health Checker
+
+[Service]
+Type=oneshot
+ExecStart=/usr/local/bin/check_webapp.sh
+
+[Install]
+WantedBy=multi-user.target
