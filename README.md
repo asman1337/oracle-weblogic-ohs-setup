@@ -1,6 +1,6 @@
 ---
 
-# Setting Up Oracle HTTP Server with Oracle WebLogic Server
+# Setting Up Oracle HTTP Server with Oracle WebLogic Server (12c)
 
 ## Introduction
 This guide provides detailed steps for installing Oracle HTTP Server (OHS) and configuring it to work with Oracle WebLogic Server. This setup is particularly useful for managing web applications and services using Oracle's robust infrastructure.
